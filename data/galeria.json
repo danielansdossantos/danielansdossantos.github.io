@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "file": null,
+      "technique": "NAD(P)H · τm",
+      "title": {
+        "en": "Metabolism, pixel by pixel",
+        "pt": "Metabolismo, píxel a píxel"
+      },
+      "caption": {
+        "en": "NAD(P)H FLIM · lifetime shows where the cell respires and where it ferments.",
+        "pt": "NAD(P)H FLIM · o tempo de vida mostra onde a célula respira e onde fermenta."
+      },
+      "alt": {
+        "en": "",
+        "pt": ""
+      }
+    },
+    {
+      "file": null,
+      "technique": "FAD · 530 nm",
+      "title": {
+        "en": "The green channel",
+        "pt": "O canal verde"
+      },
+      "caption": {
+        "en": "FAD · the other fluorescent coenzyme, which emits in the green.",
+        "pt": "FAD · a outra coenzima fluorescente, que emite no verde."
+      },
+      "alt": {
+        "en": "",
+        "pt": ""
+      }
+    },
+    {
+      "file": null,
+      "technique": "PLIM · O₂ · µs",
+      "title": {
+        "en": "Oxygen maps",
+        "pt": "Mapas de oxigénio"
+      },
+      "caption": {
+        "en": "PLIM · a probe's phosphorescence is quenched by oxygen: long lifetimes = little O₂.",
+        "pt": "PLIM · a fosforescência de uma sonda apaga-se com o oxigénio: tempos longos = pouco O₂."
+      },
+      "alt": {
+        "en": "",
+        "pt": ""
+      }
+    },
+    {
+      "file": null,
+      "technique": "phasor · ROI",
+      "title": {
+        "en": "Finding the mitochondria",
+        "pt": "Encontrar as mitocôndrias"
+      },
+      "caption": {
+        "en": "Phasor segmentation · mitochondria isolated from lifetime data.",
+        "pt": "Segmentação por phasor · mitocôndrias isoladas a partir dos tempos de vida."
+      },
+      "alt": {
+        "en": "",
+        "pt": ""
+      }
+    }
+  ]
+}

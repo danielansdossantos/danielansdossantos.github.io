@@ -1,0 +1,128 @@
+[
+  {
+    "type": "article",
+    "year": 2025,
+    "title": "Combining NAD(P)H-FLIM and PLIM of Ir5 pH sensor to optimize photodynamic therapy through metabolic intracellular pattern segmentation",
+    "first": true,
+    "authors": "[[D. dos Santos]], K. Reess, N. Naskar, I.S. Kritchenkov, S.P. Tunik, A. Rück",
+    "venue": "Photochemical & Photobiological Sciences 24, 1925–1937",
+    "doi": null
+  },
+  {
+    "type": "conference",
+    "year": 2025,
+    "title": "Beyond the microscope: targeting metabolic regions through FLIM algorithms and phasor pattern segmentation",
+    "first": true,
+    "authors": "[[D. dos Santos]], K. Werner, K. Reess, J. Wieland, A. Rück",
+    "venue": "Proc. SPIE 13324, Multiphoton Microscopy in the Biomedical Sciences XXV",
+    "doi": "10.1117/12.3040684"
+  },
+  {
+    "type": "conference",
+    "year": 2025,
+    "title": "Enhanced post-arthroplasty shoulder rehabilitation following total rotator cuff tear: a synergistic approach using physiotherapy and multimodal photobiomodulation",
+    "first": false,
+    "authors": "R. Teixeira, L. Martins, [[D. dos Santos]]",
+    "venue": "Proc. SPIE, Mechanisms of Photobiomodulation Therapy XIX",
+    "doi": "10.1117/12.3040674"
+  },
+  {
+    "type": "article",
+    "year": 2024,
+    "title": "Bromine indirubin FLIM/PLIM sensors to measure oxygen in normoxic and hypoxic PDT conditions",
+    "first": true,
+    "authors": "[[D.N.S. dos Santos]], N. Naskar, E. Delgado-Pinar, K. Reess, J.S. Seixas de Melo, A. Rück",
+    "venue": "Photodiagnosis and Photodynamic Therapy 45, 103964",
+    "doi": "10.1016/j.pdpdt.2024.103964"
+  },
+  {
+    "type": "article",
+    "year": 2024,
+    "title": "The role of the oxime group in the excited state deactivation processes of indirubin",
+    "first": true,
+    "authors": "[[D.N.S. dos Santos]], E. Delgado-Pinar, C. Cunha, J.S. Seixas de Melo",
+    "venue": "Physical Chemistry Chemical Physics 26, 7416–7423",
+    "doi": "10.1039/d3cp05260e"
+  },
+  {
+    "type": "article",
+    "year": 2024,
+    "title": "Photocytotoxic and cellular metabolism studies of curcuminoid-BF2 nanoaggregates in human carcinoma cells",
+    "first": false,
+    "authors": "S. Mishra, [[D. dos Santos]], S.B. Shelar, K. Reess, A. Rück, P.A. Hassan, K.C. Barick, N. Agarwal",
+    "venue": "J. Photochem. Photobiol. A: Chemistry 457, 115902",
+    "doi": "10.1016/j.jphotochem.2024.115902"
+  },
+  {
+    "type": "article",
+    "year": 2024,
+    "title": "Impact of Coenzyme Q10 on Mitochondrial Metabolism: A Complementary Study Using Fluorescence Lifetime Imaging and Electron Microscopy",
+    "first": false,
+    "authors": "J.G. Wieland, N. Naskar, K. Reess, [[D.N.S. dos Santos]], J.M. Weise, T. Blatt, S. Kordes, P. Walther, A. Rück",
+    "venue": "Frontiers in Bioscience-Landmark 29(11), 383",
+    "doi": "10.31083/j.fbl2911383"
+  },
+  {
+    "type": "conference",
+    "year": 2024,
+    "title": "Metabolic imaging with FLIM/PLIM indirubin derivatives: an ultrafast window into cellular metabolism and oxygen consumption",
+    "first": true,
+    "authors": "[[D.N.S. dos Santos]], N. Naskar, K. Reess, E. Delgado-Pinar, J.S. Seixas de Melo, A. Rück",
+    "venue": "Proc. SPIE, Multiphoton Microscopy in the Biomedical Sciences XXIV",
+    "doi": "10.1117/12.3002527"
+  },
+  {
+    "type": "conference",
+    "year": 2024,
+    "title": "Metabolic FLIM and oxygen PLIM/dFLIM in translational research",
+    "first": false,
+    "authors": "A.C. Rück, J. Wieland, K. Reess, [[D.N.S. dos Santos]], N. Naskar",
+    "venue": "Proc. SPIE, Multiphoton Microscopy in the Biomedical Sciences XXIV",
+    "doi": "10.1117/12.3001595"
+  },
+  {
+    "type": "article",
+    "year": 2023,
+    "title": "Indirubin: Nature finding efficient light-activated protective molecular mechanisms",
+    "first": true,
+    "authors": "[[D.N.S. dos Santos]], E. Delgado-Pinar, C. Cunha, A.M. Galvão, J.S. Seixas de Melo",
+    "venue": "Dyes and Pigments 212, 111116",
+    "doi": "10.1016/j.dyepig.2023.111116"
+  },
+  {
+    "type": "article",
+    "year": 2020,
+    "title": "Photoresponsive N,N′-disubstituted indigo derivatives",
+    "first": true,
+    "authors": "[[D.N.S. dos Santos]], C. Cunha, A. Porciello, F. Valentini, A. Marrocchi, L. Vaccaro, A.M. Galvão, J.S. Seixas de Melo",
+    "venue": "Dyes and Pigments 176, 108197",
+    "doi": "10.1016/j.dyepig.2020.108197"
+  },
+  {
+    "type": "article",
+    "year": 2019,
+    "title": "Endometrial cancer spheres show cancer stem cells phenotype and preference for oxidative metabolism",
+    "first": false,
+    "authors": "M.J. Carvalho, M. Laranjo, A.M. Abrantes, J. Casalta-Lopes, [[D.N.S. dos Santos]], et al.",
+    "venue": "Pathology & Oncology Research 25, 1163–1174",
+    "doi": "10.1007/s12253-018-0535-0"
+  },
+  {
+    "type": "article",
+    "year": 2018,
+    "title": "Deactivation Routes in Gold(I) Polypyridyl Complexes: Internal Conversion vs Fast Intersystem Crossing",
+    "first": false,
+    "authors": "E. Aguiló, A.J. Moro, M. Outis, J. Pina, [[D. Sarmento]], J.S. Seixas de Melo, L. Rodríguez, J.C. Lima",
+    "venue": "Inorganic Chemistry 57(21), 13423–13430",
+    "doi": "10.1021/acs.inorgchem.8b01993"
+  },
+  {
+    "type": "article",
+    "year": 2017,
+    "title": "Excited-State Proton Transfer in Indigo",
+    "first": false,
+    "authors": "J. Pina, [[D. Sarmento]], M. Accoto, P.L. Gentili, L. Vaccaro, A. Galvão, J.S. Seixas de Melo",
+    "venue": "The Journal of Physical Chemistry B 121(10), 2308–2318",
+    "doi": "10.1021/acs.jpcb.6b11020"
+  }
+]

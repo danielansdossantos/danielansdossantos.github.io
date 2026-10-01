@@ -1,0 +1,67 @@
+{
+  "items": [
+    {
+      "youtubeId": null,
+      "url": null,
+      "kind": "video",
+      "duration": "2:30",
+      "series": {
+        "en": "Series · episode 1",
+        "pt": "Série · episódio 1"
+      },
+      "title": {
+        "en": "What is FLIM? Measuring metabolism with nanoseconds of light",
+        "pt": "O que é o FLIM? Medir o metabolismo com nanossegundos de luz"
+      },
+      "description": {
+        "en": "A short explainer for the general public, filmed in the lab.",
+        "pt": "Explicação curta para o público geral, filmada no laboratório."
+      }
+    },
+    {
+      "youtubeId": null,
+      "url": null,
+      "kind": "video",
+      "duration": "3:00",
+      "series": null,
+      "title": {
+        "en": "Three Minute Thesis",
+        "pt": "Three Minute Thesis"
+      },
+      "description": {
+        "en": "Univ. Coimbra, 2020 · the thesis in 3 minutes",
+        "pt": "Univ. Coimbra, 2020 · a tese em 3 minutos"
+      }
+    },
+    {
+      "youtubeId": null,
+      "url": null,
+      "kind": "audio",
+      "duration": null,
+      "series": null,
+      "title": {
+        "en": "PodCast Molecular",
+        "pt": "PodCast Molecular"
+      },
+      "description": {
+        "en": "2021 · photochemistry and photobiology",
+        "pt": "2021 · fotoquímica e fotobiologia"
+      }
+    },
+    {
+      "youtubeId": null,
+      "url": null,
+      "kind": "video",
+      "duration": "20:00",
+      "series": null,
+      "title": {
+        "en": "SPIE Photonics West 2025",
+        "pt": "SPIE Photonics West 2025"
+      },
+      "description": {
+        "en": "Beyond the microscope: FLIM and phasor segmentation",
+        "pt": "Beyond the microscope: FLIM e segmentação por phasor"
+      }
+    }
+  ]
+}
