@@ -1,66 +1,76 @@
 {
   "items": [
     {
-      "youtubeId": null,
+      "youtubeId": "-V90uJBSEqc",
       "url": null,
       "kind": "video",
-      "duration": "2:30",
-      "series": {
-        "en": "Series · episode 1",
-        "pt": "Série · episódio 1"
-      },
-      "title": {
-        "en": "What is FLIM? Measuring metabolism with nanoseconds of light",
-        "pt": "O que é o FLIM? Medir o metabolismo com nanossegundos de luz"
-      },
-      "description": {
-        "en": "A short explainer for the general public, filmed in the lab.",
-        "pt": "Explicação curta para o público geral, filmada no laboratório."
-      }
-    },
-    {
-      "youtubeId": null,
-      "url": null,
-      "kind": "video",
-      "duration": "3:00",
-      "series": null,
-      "title": {
-        "en": "Three Minute Thesis",
-        "pt": "Three Minute Thesis"
-      },
-      "description": {
-        "en": "Univ. Coimbra, 2020 · the thesis in 3 minutes",
-        "pt": "Univ. Coimbra, 2020 · a tese em 3 minutos"
-      }
-    },
-    {
-      "youtubeId": null,
-      "url": null,
-      "kind": "audio",
       "duration": null,
-      "series": null,
+      "start": 0,
+      "series": {
+        "en": "Science outreach",
+        "pt": "Divulgação científica"
+      },
       "title": {
-        "en": "PodCast Molecular",
-        "pt": "PodCast Molecular"
+        "en": "Oxygen and indigo",
+        "pt": "Oxigénio e índigo"
       },
       "description": {
-        "en": "2021 · photochemistry and photobiology",
-        "pt": "2021 · fotoquímica e fotobiologia"
+        "en": "Science outreach video · Dep. de Química, FCTUC",
+        "pt": "Vídeo de divulgação científica · Dep. de Química, FCTUC"
       }
     },
     {
-      "youtubeId": null,
+      "youtubeId": "QyDZyoCmT6g",
       "url": null,
       "kind": "video",
-      "duration": "20:00",
-      "series": null,
+      "duration": null,
+      "start": 0,
+      "series": {
+        "en": "Science outreach",
+        "pt": "Divulgação científica"
+      },
       "title": {
-        "en": "SPIE Photonics West 2025",
-        "pt": "SPIE Photonics West 2025"
+        "en": "The molecules of colour",
+        "pt": "Moléculas da cor"
       },
       "description": {
-        "en": "Beyond the microscope: FLIM and phasor segmentation",
-        "pt": "Beyond the microscope: FLIM e segmentação por phasor"
+        "en": "Science outreach video · Dep. de Química, FCTUC",
+        "pt": "Vídeo de divulgação científica · Dep. de Química, FCTUC"
+      }
+    },
+    {
+      "youtubeId": "zwDMXLTPNeM",
+      "url": null,
+      "kind": "video",
+      "duration": null,
+      "start": 0,
+      "series": {
+        "en": "Podcast",
+        "pt": "Podcast"
+      },
+      "title": {
+        "en": "Podcast Molecular",
+        "pt": "Podcast Molecular"
+      },
+      "description": {
+        "en": "Ep. 3 · Photochemistry and photobiology",
+        "pt": "Ep. 3 · Fotoquímica e Fotobiologia"
+      }
+    },
+    {
+      "youtubeId": "XymjXNzHHoo",
+      "url": null,
+      "kind": "video",
+      "duration": null,
+      "start": 4020,
+      "series": null,
+      "title": {
+        "en": "Three Minute Thesis · Coimbra final",
+        "pt": "Three Minute Thesis · Final de Coimbra"
+      },
+      "description": {
+        "en": "Univ. Coimbra, 2020 · 6th place out of 20 in the final. My talk starts at 1:07:00.",
+        "pt": "Univ. Coimbra, 2020 · 6.º lugar entre 20 participantes na final. A minha entrada é aos 1:07:00."
       }
     }
   ]

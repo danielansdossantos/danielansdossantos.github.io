@@ -46,7 +46,7 @@
     var kind=v.series?'<span class="kind">'+bi(v.series)+'</span>':(v.kind==='audio'?'<span class="kind">podcast</span>':'');
     var play='<span class="play'+(v.kind==='audio'?' audio':'')+'" aria-hidden="true"></span>';
     var img=v.youtubeId?'<img src="https://i.ytimg.com/vi/'+esc(v.youtubeId)+'/hqdefault.jpg" alt="" loading="lazy" width="480" height="360">':'';
-    if(v.youtubeId)return '<button type="button" class="vthumb" data-yt="'+esc(v.youtubeId)+'" data-label-en="Play video: '+esc(v.title.en)+'" data-label-pt="Reproduzir vídeo: '+esc(v.title.pt)+'">'+img+kind+play+dur+'</button>';
+    if(v.youtubeId)return '<button type="button" class="vthumb" data-yt="'+esc(v.youtubeId)+'" data-start="'+(+v.start||0)+'" data-label-en="Play video: '+esc(v.title.en)+'" data-label-pt="Reproduzir vídeo: '+esc(v.title.pt)+'">'+img+kind+play+dur+'</button>';
     return '<a class="vthumb" href="'+esc(v.url)+'" target="_blank" rel="noopener" data-label-en="Open: '+esc(v.title.en)+'" data-label-pt="Abrir: '+esc(v.title.pt)+'">'+kind+play+dur+'</a>';
   }
   getJSON('data/videos.json').then(function(d){
@@ -61,7 +61,7 @@
     box.addEventListener('click',function(e){
       var b=e.target.closest('button[data-yt]'); if(!b)return;
       var f=document.createElement('iframe');
-      f.src='https://www.youtube-nocookie.com/embed/'+b.dataset.yt+'?autoplay=1&rel=0';
+      f.src='https://www.youtube-nocookie.com/embed/'+b.dataset.yt+'?autoplay=1&rel=0'+(b.dataset.start>0?'&start='+b.dataset.start:'');
       f.allow='accelerometer; autoplay; encrypted-media; picture-in-picture; fullscreen'; f.allowFullscreen=true;
       f.title=b.getAttribute('aria-label')||'Video';
       var d=document.createElement('div'); d.className='vthumb'; d.appendChild(f); b.replaceWith(d); f.focus();
